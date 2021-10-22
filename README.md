@@ -12,4 +12,4 @@ This is not a standalone application; You need more files like Chrome and WebDri
 But worry not,
 ## Simply download the rar file from the below given link, extract it and voila, run googleImages.exe and you're good to go.
 
-### https://drive.google.com/file/d/1eXqBLd6MFsXKw7lnuZhdyFYxftb-N2lf/view?usp=sharing
+### https://drive.google.com/drive/folders/1SZq_J8MJwM2YQKTkOxX0HjUG_Q1nOGMl?usp=sharing
