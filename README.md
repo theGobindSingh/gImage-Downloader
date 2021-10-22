@@ -1,4 +1,5 @@
 # gImage-Downloader
+# Google Images Scraper & Downloader
 
 This is an application for scraping and downloading images from Google.
 Made with python, selenium ( Chromium )
